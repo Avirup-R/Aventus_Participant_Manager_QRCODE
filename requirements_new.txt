@@ -1,0 +1,6 @@
+firebase_admin==6.1.0
+Flask
+numpy
+opencv-python
+pandas==2.0.1
+pyzbar
